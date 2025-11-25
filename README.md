@@ -19,12 +19,14 @@ Es un ejercicio práctico que une lógica, precisión y un toque de creatividad,
 
 📌 Características principales
 
-✔ Consume una API real de tasas de cambio
-✔ Conversión dinámica según la moneda seleccionada
-✔ Menú interactivo
-✔ Manejo de errores cuando el usuario digita letras en vez de números
+- Consume una API real de tasas de cambio
+- Conversión dinámica según la moneda seleccionada
+- Menú interactivo
+- Manejo de errores cuando el usuario digita letras en vez de números
+
 
 
 📸 Ejemplo de ejecución
+
 ![Ejemplo de ejecución](ejemplo.png)
 
