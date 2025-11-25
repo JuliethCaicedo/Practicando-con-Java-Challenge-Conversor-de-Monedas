@@ -26,5 +26,5 @@ Es un ejercicio práctico que une lógica, precisión y un toque de creatividad,
 
 
 📸 Ejemplo de ejecución
-![Ejemplo de ejecución](/Practicando-con-Java-Challenge-Conversor-de-Monedas/ejemplo.png)
+![Ejemplo de ejecución](ejemplo.png)
 
